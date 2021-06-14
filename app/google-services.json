@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "869201590323",
+    "project_id": "firechatting-ed919",
+    "storage_bucket": "firechatting-ed919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869201590323:android:0e252fde71f10010550b46",
+        "android_client_info": {
+          "package_name": "com.project.firechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869201590323-oi4ahb216hruqks7gbq0enevan31nqq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.firechatting",
+            "certificate_hash": "d12eb6172398333a3abd77fe1a2f93654f16bab5"
+          }
+        },
+        {
+          "client_id": "869201590323-0hufpft4d05tdl0ojg4j7st075n226pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAOXGALhe6O7TRzSPpancKWqAw_xc2rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869201590323-0hufpft4d05tdl0ojg4j7st075n226pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
